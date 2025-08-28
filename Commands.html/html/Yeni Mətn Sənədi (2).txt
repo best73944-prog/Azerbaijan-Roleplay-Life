@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>Komutlar</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Bot Komutları</h1>
+        <nav>
+            <a href="index.html">Ana Səhifə</a>
+            <a href="commands.html">Komutlar</a>
+            <a href="faq.html">FAQ</a>
+            <a href="invite.html">Botu Əlavə Et</a>
+        </nav>
+    </header>
+    <main>
+        <div class="card-list">
+            <div class="card">
+                <h3>!help</h3>
+                <p>Bütün komutları göstərir.</p>
+            </div>
+            <div class="card">
+                <h3>!play [şarkı]</h3>
+                <p>Musiqi oynadır.</p>
+            </div>
+            <div class="card">
+                <h3>!rank</h3>
+                <p>Rank sistemini göstərir.</p>
+            </div>
+        </div>
+    </main>
+</body>
+</html>

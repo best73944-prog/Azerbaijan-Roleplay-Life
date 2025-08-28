@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>My Discord Bot</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>My Discord Bot</h1>
+        <nav>
+            <a href="index.html">Ana Səhifə</a>
+            <a href="commands.html">Komutlar</a>
+            <a href="faq.html">FAQ</a>
+            <a href="invite.html">Botu Əlavə Et</a>
+        </nav>
+    </header>
+    <main>
+        <section class="hero">
+            <h2>Botumuz ilə Discord təcrübənizi yüksəldin!</h2>
+            <a class="btn" href="invite.html">Botu Əlavə Et</a>
+        </section>
+        <section class="features">
+            <div class="card">
+                <h3>Rank Sistemi</h3>
+                <p>İstifadəçilərin ranklarını görə bilərsiniz.</p>
+            </div>
+            <div class="card">
+                <h3>Komutlar</h3>
+                <p>Əyləncəli və faydalı komutlar mövcuddur.</p>
+            </div>
+            <div class="card">
+                <h3>FAQ</h3>
+                <p>Bot haqqında tez-tez soruşulan suallara cavab.</p>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p>© 2025 My Discord Bot. Bütün hüquqlar qorunur.</p>
+    </footer>
+</body>
+</html>

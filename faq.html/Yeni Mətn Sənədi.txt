@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>FAQ</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>FAQ</h1>
+        <nav>
+            <a href="index.html">Ana Səhifə</a>
+            <a href="commands.html">Komutlar</a>
+            <a href="faq.html">FAQ</a>
+            <a href="invite.html">Botu Əlavə Et</a>
+        </nav>
+    </header>
+    <main>
+        <div class="faq">
+            <div class="card">
+                <h3>Bot necə əlavə olunur?</h3>
+                <p>Invite səhifəsindən linki istifadə edin.</p>
+            </div>
+            <div class="card">
+                <h3>Rank sistemi necə işləyir?</h3>
+                <p>!rank komutunu istifadə edin.</p>
+            </div>
+            <div class="card">
+                <h3>Bot musiqi oynada bilər?</h3>
+                <p>Bəli, !play komutu ilə.</p>
+            </div>
+        </div>
+    </main>
+</body>
+</html>

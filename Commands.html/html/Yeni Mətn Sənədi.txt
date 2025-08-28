@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bot Komutları</title>
+</head>
+<nav>
+    <a href="index.html">Ana Səhifə</a> |
+    <a href="commands.html">Komutlar</a> |
+    <a href="faq.html">FAQ</a> |
+    <a href="invite.html">Botu Əlavə Et</a>
+</nav>
+<hr>
+<body>
+    <h1>Bot Komutları</h1>
+    <ul>
+        <li>!help - Komutları göstərir</li>
+        <li>!play [şarkı] - Müziyi oynatır</li>
+        <li>!rank - Rankları göstərir</li>
+    </ul>
+    <a href="index.html">Ana Səhifəyə dön</a>
+</body>
+</html>

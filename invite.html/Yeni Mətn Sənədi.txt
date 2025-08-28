@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>Botu Əlavə Et</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Botu Serverinə Əlavə Et</h1>
+        <nav>
+            <a href="index.html">Ana Səhifə</a>
+            <a href="commands.html">Komutlar</a>
+            <a href="faq.html">FAQ</a>
+            <a href="invite.html">Botu Əlavə Et</a>
+        </nav>
+    </header>
+    <main>
+        <a class="btn" href="YOUR_BOT_INVITE_LINK" target="_blank">Botu Əlavə Et</a>
+    </main>
+</body>
+</html>

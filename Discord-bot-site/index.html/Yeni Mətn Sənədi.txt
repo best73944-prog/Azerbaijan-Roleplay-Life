@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Discord Bot</title>
+</head>
+<nav>
+    <a href="index.html">Ana Səhifə</a> |
+    <a href="commands.html">Komutlar</a> |
+    <a href="faq.html">FAQ</a> |
+    <a href="invite.html">Botu Əlavə Et</a>
+</nav>
+<hr>
+<body>
+    <h1>Welcome to My Discord Bot Site!</h1>
+    <p>Botun haqqında məlumat buraya yazılacaq.</p>
+    <a href="https://discord.com/oauth2/authorize?client_id=1410552608229294131&permissions=8&integration_type=0&scope=bot">Botu əlavə et</a>
+</body>
+</html>
