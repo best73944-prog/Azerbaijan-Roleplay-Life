@@ -1,11 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>My Discord Bot</title>
+    <title>Bot Komutları</title>
 </head>
 <body>
-    <h1>Welcome to My Discord Bot Site!</h1>
-    <p>Botun haqqında məlumat buraya yazılacaq.</p>
-    <a href="https://discord.com/oauth2/authorize?client_id=1410552608229294131&permissions=8&integration_type=0&scope=bot">Botu əlavə et</a>
+    <h1>Bot Komutları</h1>
+    <ul>
+        <li>!help - Komutları göstərir</li>
+        <li>!play [şarkı] - Müziyi oynatır</li>
+        <li>!rank - Rankları göstərir</li>
+    </ul>
+    <a href="index.html">Ana Səhifəyə dön</a>
 </body>
 </html>
